@@ -1,0 +1,3 @@
+from keras.layers import Dropout
+...
+model.add(Dropout(0.2))
